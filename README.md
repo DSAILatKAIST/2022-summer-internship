@@ -11,13 +11,13 @@
 ### Basic recommender system and Graph Neural Network
 | Year | Paper | Short | Presenter | slides |
 | :---: | --- | --- | --- | --- |
-| 2009 | [Matrix Factorization Techniques for Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)| Netflix | 서규혁 |  |
-| 2008 | [Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model](https://dl.acm.org/doi/pdf/10.1145/1401890.1401944)| Netflix | 서규혁 |  |
+| 2009 | [Matrix Factorization Techniques for Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)| Netflix | 서규혁 | [Slide](https://github.com/DSAILatKAIST/2022-summer-internship/blob/main/slides/Netflix.pdf) |
+| 2008 | [Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model](https://dl.acm.org/doi/pdf/10.1145/1401890.1401944)| Netflix | 서규혁 | [Slide](https://github.com/DSAILatKAIST/2022-summer-internship/blob/main/slides/Netflix.pdf) |
 | 2008 | [Probabilistic Matrix Factorization](https://papers.nips.cc/paper/2007/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf)| PMF | 전재형 | [Slide](https://github.com/DSAILatKAIST/2022-summer-internship/blob/main/slides/PMF.pdf) | 
-| 2008 | [Collaborative Filtering for Implicit Feedback Datasets](http://yifanhu.net/PUB/cf.pdf)| OCCF | 이상민 |  |
-| 2012 | [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)| BPR | 홍진영 |  | 
-| 2017 | [Collaborative Metric Learning](https://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)| CML | 홍성훈 |  |
-| 2017 | [Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031)| NCF | 한주헌 |  |
+| 2008 | [Collaborative Filtering for Implicit Feedback Datasets](http://yifanhu.net/PUB/cf.pdf)| OCCF | 이상민 | [Slide](https://github.com/DSAILatKAIST/2022-summer-internship/blob/main/slides/OCCF.pdf) |
+| 2012 | [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)| BPR | 홍진영 | [Slide](https://github.com/DSAILatKAIST/2022-summer-internship/blob/main/slides/BPR.pdf) | 
+| 2017 | [Collaborative Metric Learning](https://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)| CML | 홍성훈 | [Slide](https://github.com/DSAILatKAIST/2022-summer-internship/blob/main/slides/CML.pdf) |
+| 2017 | [Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031)| NCF | 한주헌 | [Slide](https://github.com/DSAILatKAIST/2022-summer-internship/blob/main/slides/NCF.pdf) |
 | 2015 | [AutoRec: Autoencoders Meet Collaborative Filtering](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)| Autorec | 홍성훈 |  |
 | 2010 | [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)| FM | 서상우 |  |
 | 2016 | [Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792)| WD | 노희웅 |  |
@@ -31,7 +31,7 @@
 | 2016 | [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308)| VGAE | 이상민 |  |
 | 2013 | [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)| VAE | 이상민 |  |
 | 2017 | [Inductive Representation Learning on Large Graphs](https://papers.nips.cc/paper/2017/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)| GraphSAGE | 서규혁 |  | 
-| 2013 | [Translating Embeddings for Modeling Multi-relational Data](https://papers.nips.cc/paper/2013/hash/1cecc7a77928ca8133fa24680a88d2f9-Abstract.html)| TransE | 김영로 |  |
+| 2013 | [Translating Embeddings for Modeling Multi-relational Data](https://papers.nips.cc/paper/2013/hash/1cecc7a77928ca8133fa24680a88d2f9-Abstract.html)| TransE | 김영로 | [Slide](https://github.com/DSAILatKAIST/2022-summer-internship/blob/main/slides/TransE.pdf) |
 
 ### Participate to projects
 - On-going projects
